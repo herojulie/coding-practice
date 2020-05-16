@@ -48,10 +48,4 @@ def knapsack_item_no_reuse():
 
 
 knapsack_item_reusable()
-
-
-
-
-
-
-
+# knapsack_item_no_reuse()
