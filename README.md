@@ -1,2 +1,2 @@
-# project-euler
-my solutions of project Euler problems
+# practice this and that
+push my solutions only
